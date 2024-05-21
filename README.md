@@ -1,20 +1,20 @@
 # 92Benthara.github.io
 Showcase my Data Science Portfolio
 
-#Data Scientist
+# Data Scientist
 
-###Education
+### Education
 Masters in Data Science
 Master in Business Administration (Project Management)
 Bachelor of Science Engineering (Mechatronics)
 
-###Work Experience
+### Work Experience
 Beginner
 -Big impact projects 1
 -Big impact projects 2
 -Big impact projects 3
 
-#Projects
+# Projects
 -Financial
 -Academic
 -General
