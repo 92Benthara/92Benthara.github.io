@@ -20,8 +20,8 @@ Seasoned, results-driven individual with a strategic managerial background in th
 London. NW2 4HX
 (+44) 7984 720 460
 Email: sanjana.benthara@gmail.com
-LinkedIn: Sanjana Anuradha
-Web: https://92benthara.github.io/
+LinkedIn: [Sanjana Anuradha](http://www.linkedin.com/in/sanjana-anuradha)
+Web: (https://92benthara.github.io/)
 
 # Education
 Pursuing a master’s degree in data science at the University of Wolverhampton, United Kingdom, with an expected graduation in January 2025. 
