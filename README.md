@@ -24,7 +24,8 @@ LinkedIn: Sanjana Anuradha
 Web: https://92benthara.github.io/
 
 # Education
-Pursuing a master’s degree in data science at the University of Wolverhampton, United Kingdom, with an expected graduation in January 2025. Holder of an MBA with merit achieved in 2023 and a Bachelor of Science degree with second-class upper honors attained in 2016.
+Pursuing a master’s degree in data science at the University of Wolverhampton, United Kingdom, with an expected graduation in January 2025. 
+Holder of an MBA with merit achieved in 2023 and a Bachelor of Science degree with second-class upper honors attained in 2016.
 
 ## Master’s in data science
 • Sep 2023 – Jan 2025
@@ -45,10 +46,11 @@ https://www.scribd.com/document/234730387/36
 
 
 # Experience
-• Sep 2019 – Sep 2023      Assistant Manager Quality   
-• Nov 2017 – Sep 2023     Quality Engineer
-• Aug 2016 – Nov 2017    Trainee Engineer  
+• Sep 2019 – Sep 2023 Assistant Manager Quality   
+• Nov 2017 – Sep 2023 Quality Engineer
+• Aug 2016 – Nov 2017 Trainee Engineer
 at Trade Promoters (PVT) LTD, Sri Lanka
+
 Experienced Product Safety Inspector skilled in streamlining office operations, designing effective staff training programs, and managing resources. Proficient in budgeting, implementing policies, and leading daily operations. Adept at issue resolution and policy development for improved administrative oversight.
 
 Intern • May 2015 – Jul 2015
