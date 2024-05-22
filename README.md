@@ -5,14 +5,14 @@
 Seasoned, results-driven individual with a strategic managerial background in the elevator industry navigating a transition into data science, showcasing proficiency in analytics, resource management, and a solution-oriented approach. Proven track record of thriving under pressure and overcoming challenges. Committed to contributing innovative solutions to the digital landscape.
 
 # Key Skills
-Statistics
-Data Analytics
-Project Management
-Data Visualization (SAS)
-Excellent communication
-Programming (Python, R)
-Image Processing (Matlab)
-Database management (SQL)
+### Statistics
+### Data Analytics
+### Project Management
+### Data Visualization (SAS)
+### Excellent communication
+### Programming (Python, R)
+### Image Processing (Matlab)
+### Database management (SQL)
 
 
 # Contact
@@ -46,17 +46,17 @@ https://www.scribd.com/document/234730387/36
 
 
 # Experience
-• Sep 2019 – Sep 2023 Assistant Manager Quality   
-• Nov 2017 – Sep 2023 Quality Engineer
-• Aug 2016 – Nov 2017 Trainee Engineer
+### Sep 2019 – Sep 2023 Assistant Manager Quality   
+### Nov 2017 – Sep 2023 Quality Engineer
+### Aug 2016 – Nov 2017 Trainee Engineer
 at Trade Promoters (PVT) LTD, Sri Lanka
 
 Experienced Product Safety Inspector skilled in streamlining office operations, designing effective staff training programs, and managing resources. Proficient in budgeting, implementing policies, and leading daily operations. Adept at issue resolution and policy development for improved administrative oversight.
 
-Intern • May 2015 – Jul 2015
+### Intern • May 2015 – Jul 2015
 NMMTC, THAILAND
 
-Intern • Jun 2014 – Aug 2014
+### Intern • Jun 2014 – Aug 2014
 Dipped Products PLC, Sri Lanka
 
 
