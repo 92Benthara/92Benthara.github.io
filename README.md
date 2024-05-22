@@ -31,7 +31,7 @@ Holder of an MBA with merit achieved in 2023 and a Bachelor of Science degree wi
 • Sep 2023 – Jan 2025
 University of Wolverhampton, UK
 
-## Master of Business Administration 
+## Master of Business Administration (Project Management) 
 • Oct 2021 - Jul 2023
 Cardiff Metropolitan University, UK
 
@@ -42,7 +42,7 @@ Asian Institute of Technology, Thailand
 
 #Publications
 Design and Implementation of an Autonomous Quadcopter Control System Using a DSP Microcontroller
-https://www.scribd.com/document/234730387/36
+### (https://www.scribd.com/document/234730387/36)
 
 
 # Experience
