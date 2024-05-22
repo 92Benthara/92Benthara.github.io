@@ -5,20 +5,18 @@
 Seasoned, results-driven individual with a strategic managerial background in the elevator industry navigating a transition into data science, showcasing proficiency in analytics, resource management, and a solution-oriented approach. Proven track record of thriving under pressure and overcoming challenges. Committed to contributing innovative solutions to the digital landscape.
 
 # Key Skills
-#### Statistics
-### Data Analytics
-### Project Management
-### Data Visualization (SAS)
-### Excellent communication
-### Programming (Python, R)
-### Image Processing (Matlab)
-### Database management (SQL)
+Statistics
+Data Analytics
+Project Management
+Data Visualization (SAS)
+Excellent communication
+Programming (Python, R)
+Image Processing (Matlab)
+Database management (SQL)
 
 
 # Contact
-11, Mapesbury Road, Kilburn, 
-London. NW2 4HX
-(+44) 7984 720 460
+Mobile: (+44)7984 720460
 Email: sanjana.benthara@gmail.com
 LinkedIn: [Sanjana Anuradha](http://www.linkedin.com/in/sanjana-anuradha)
 Web:[Sanjana in Github](https://92benthara.github.io/)
@@ -40,7 +38,7 @@ Cardiff Metropolitan University, UK
 Asian Institute of Technology, Thailand
 
 
-#Publications
+# Publications
 [Design and Implementation of an Autonomous Quadcopter Control System Using a DSP Microcontroller](https://www.scribd.com/document/234730387/36)
 
 
